@@ -1,3 +1,3 @@
-maths
-brains
+maths \
+brains \
 computers
